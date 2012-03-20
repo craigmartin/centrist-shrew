@@ -25,7 +25,7 @@ Code style guides for various programming languages and technologies
 * [Cloud](#cloud)
 
 <a name="all-languages"></a>
-### All languages
+## All languages
 * Readability
 * Consistency
 * DRY
@@ -35,8 +35,8 @@ Code style guides for various programming languages and technologies
 * Simplicity
 
 <a name="ruby"></a>
-### Ruby
-## Formatting
+## Ruby
+### Formatting
 * Use ASCII (or UTF-8, not optimal)
 * Use 2 space indent, no tabs
 * Use Unix-style line endings
@@ -50,21 +50,21 @@ Code style guides for various programming languages and technologies
 * Keep lines fewer than 80 characters
 * Avoid trailing whitespace
 
-## Syntax
+### Syntax
 
 
-## Naming
+### Naming
 
 
-## Comments
+### Comments
 * Comment that are longer than one word should be capitalized and written using English rules
 * Avoid superluous comments
 * Write well, thoughtout comments intended for public consumption
 
-## Everything Else
+### Everything Else
 
 
-## General
+### General
 
 
 
